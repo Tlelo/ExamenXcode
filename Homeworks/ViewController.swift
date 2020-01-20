@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Homeworks
 //
-//  Created by Juan Meza on 1/17/20.
-//  Copyright © 2020 Juan Meza. All rights reserved.
+//  Created by Carlos Tlelo  on 1/17/20.
+//  Copyright © 2020 Carlos Tlelo . All rights reserved.
 //
 
 import UIKit

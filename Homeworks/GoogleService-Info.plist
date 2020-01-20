@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1086376197121-lmcp67n409cni08k304mh4057t3frgho.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1086376197121-lmcp67n409cni08k304mh4057t3frgho</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD9Bhudnb_7YK5x2FRJokDAosK6dfmv5q8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1086376197121</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.appsconswift.Homeworks</string>
+	<key>PROJECT_ID</key>
+	<string>homeworks-f473e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>homeworks-f473e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1086376197121:ios:79147af8de35ee83f55400</string>
+	<key>DATABASE_URL</key>
+	<string>https://homeworks-f473e.firebaseio.com</string>
+</dict>
+</plist>
